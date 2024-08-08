@@ -1,0 +1,1 @@
+*/2 * * * * root export JAVA_HOME=/usr/local/openjdk-11 && cd /opt/spark/work-dir/ && python3 ./godata2023/pipelines/stock_etl.py >> /var/log/cron.log 2>&1
