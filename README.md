@@ -14,4 +14,6 @@ This repo contains a portable ETL (Extract, Transform, Load) pipeline designed t
 - **Cron:** Cron jobs are applied for scheduling regular data collection and processing tasks.
 
 ### Data Flow
+<img width="835" alt="Screenshot 2024-08-09 at 18 08 40" src="https://github.com/user-attachments/assets/8252e53a-da45-452c-b3a9-d423d9d76742">
+
 ## Welcome to My First Data Engineering Project!
