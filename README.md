@@ -12,6 +12,7 @@ This repo contains a portable ETL (Extract, Transform, Load) pipeline designed t
 - **Delta Lake:** Provides scalable and reliable data storage, enabling the management of different data layers (bronze, silver).
 - **Docker:** Containers are used to standardize the development environment and streamline deployment.
 - **Cron:** Cron jobs are applied for scheduling regular data collection and processing tasks.
+- **Make:** Used to simplify and manage the execution of tasks within the project, including setup, build and deployment.
 
 ### Data Flow
 <img width="1014" alt="Screenshot 2024-08-13 at 13 03 37" src="https://github.com/user-attachments/assets/f9024be1-f756-4790-b559-547bb2c38e73">
