@@ -15,7 +15,8 @@ This repo contains a portable ETL (Extract, Transform, Load) pipeline designed t
 - **Make:** Used to simplify and manage the execution of tasks within the project, including setup, build and deployment.
 
 ### Data Flow
-<img width="1014" alt="Screenshot 2024-08-13 at 13 03 37" src="https://github.com/user-attachments/assets/f9024be1-f756-4790-b559-547bb2c38e73">
+<img width="993" alt="Screenshot 2024-08-17 at 18 27 28" src="https://github.com/user-attachments/assets/4018ebed-8fdc-405c-9f26-714a09211f3f">
+
 
 
 ## Welcome to My First Data Engineering Project!
